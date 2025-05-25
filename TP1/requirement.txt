@@ -1,5 +1,0 @@
-pandas==2.2.3
-openpyxl
-matplotlib
-seaborn
-scipy
