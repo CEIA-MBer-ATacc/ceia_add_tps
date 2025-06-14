@@ -1,3 +1,4 @@
+category_encoders
 pandas==2.2.3
 openpyxl
 matplotlib
@@ -5,3 +6,4 @@ numpy
 seaborn
 scipy
 scikit-learn
+umap-learn
